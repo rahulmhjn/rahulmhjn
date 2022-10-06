@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Rahul! 👋
-- 👀 I’m interested in JavaScript, React, Node, Graphql, MongoDB ...
-- 🌱 I’m currently learning DS and Algo...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 📧 rahul.mahajan676@gmail.com
-- 🎨 Portfolio: https://rahulmahajan.netlify.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/rahul-mahajan0786/
-- Twitter: https://twitter.com/RahulMahajan676
+<p align="center">
+  <samp>
+    Hi, I'm Rahul! 👋 <br>
+    Software Developer<br>
+    :sparkles: Favorite Tech: JavaScript, React, Node, MongoDB, Graphql, Docker ... <br>
+    :email:	rahul.mahajan676@gmail.com <br>
+    :art: Portfolio: https://rahulmahajan.netlify.app/ <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/rahul-mahajan0786/ <br>
+                Twitter: https://twitter.com/RahulMahajan676
+  </samp>
+</p>
+
 
 <!---
 rahulmhjn/rahulmhjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
