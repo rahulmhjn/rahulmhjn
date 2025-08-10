@@ -4,7 +4,7 @@
     Software Developer<br>
     :sparkles: Favorite Tech: JavaScript, React, Node, MongoDB, Graphql, Docker ... <br>
     :email:	rahul.mahajan676@gmail.com <br>
-    :art: Portfolio: https://rahulmahajan.netlify.app/ <br>
+    :art: Portfolio: https://rahulmahajan.dev/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/rahul-mahajan0786/ <br>
                 Twitter: https://twitter.com/RahulMahajan676
   </samp>
